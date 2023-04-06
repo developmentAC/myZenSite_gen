@@ -1,13 +1,16 @@
 ---
 title: "Make the Web Fun Again"
-
 ---
+
+{{< search >}} 
+
+HACKABLE VERSION
 
 # Hugo
 
 ## Make the Web Fun Again
 
-Introducing Hugo, a new idea for making website creation simple again. Hugo works flexibly with many formats, and is ideal for blogs, docs, portfolios and much more. Hugo’s speed fosters creativity—it makes building a website fun again.
+Oh yes. Introducing Hugo, a new idea for making website creation simple again. Hugo works flexibly with many formats, and is ideal for blogs, docs, portfolios and much more. Hugo’s speed fosters creativity—it makes building a website fun again.
 
 ## Run Anywhere
 
