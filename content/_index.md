@@ -4,8 +4,6 @@ title: "Make the Web Fun Again"
 
 {{< search >}} 
 
-HACKABLE VERSION
-
 # Hugo
 
 ## Make the Web Fun Again
