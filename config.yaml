@@ -1,0 +1,42 @@
+---
+title: "Hugo Zen theme"
+baseURL: "https://example.org/"
+theme: "hugo-theme-zen"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Your Name"
+  url: "https://example.org/somepage"
+  avatar: "path/to/some-image.jpg"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "info@example.org"
+  description: "The zen theme for Hugo example site."
+  dateformat: "2 January, 2006"
+  favicon: "images/favicon.ico"
+  feedlinks: true
+  icon: "images/logo.png"
+  #image: "images/logo.png"
+  imageMaxWidth: 400
+  logoWidth: 64
+  mobileMenu: true
+  poweredby: true
+  realfavicongenerator: true
+  sidebar: true
+  submitted: true
